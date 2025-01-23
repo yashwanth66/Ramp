@@ -1,2 +1,0 @@
-# Ramp
-Solving Ramp challenge.
